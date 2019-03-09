@@ -140,5 +140,3 @@ See [LICENSE][] for more details
 [LICENSE]: ./LICENSE
 
 [docker hub svg]: https://img.shields.io/docker/pulls/ciricihq/gitlab-sonar-scanner.svg
-
-gpg test
